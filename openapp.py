@@ -16,4 +16,4 @@ if inp==3:
   os.system('chrome')
 
 else:
-  print("can't handle your choice")
+  print("choose from the given choices")
